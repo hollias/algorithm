@@ -1,6 +1,7 @@
-package programmers.level1;
+package test.programmers.level1;
 
 import org.junit.Test;
+import programmers.level1.OddEven;
 
 import static org.junit.Assert.*;
 
