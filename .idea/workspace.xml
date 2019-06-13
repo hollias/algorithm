@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa74ea1b-8e21-491b-8541-6fb3c8c993ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/level2/NumberOf124World.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/programmers/level2/NumberOf124WorldTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/uahantech/programmers/level1/Solution2Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/uahantech/programmers/level1/SolutionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/level1/AddMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level1/AddMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/level1/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level1/Average.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/level1/Collatz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level1/Collatz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/level1/CommonNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level1/CommonNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/level1/DescendingInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level1/DescendingInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/level1/HarshadNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level1/HarshadNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/level1/LCMGCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level1/LCMGCD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/level1/LastPhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level1/LastPhoneNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/level1/OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level1/OddEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/level1/SquareInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level1/SquareInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/level1/removeSmallestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level1/removeSmallestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/level2/SkillTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level2/SkillTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/programmers/level1/CollatzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/programmers/level1/CollatzTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/programmers/level1/DescendingIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/programmers/level1/DescendingIntegerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/programmers/level1/LastPhoneNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/programmers/level1/LastPhoneNumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/programmers/level1/OddEvenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/programmers/level1/OddEvenTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/programmers/level1/SquareIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/programmers/level1/SquareIntegerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/programmers/level2/SkillTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/programmers/level2/SkillTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmers/level2/Tower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level2/Tower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/programmers/level2/TowerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/programmers/level2/TowerTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,20 +17,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/programmers/level2/SkillTree.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/programmers/level2/Tower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+            <state relative-caret-position="92">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/programmers/level2/NumberOf124World.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/programmers/level2/SkillTreeTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/programmers/level2/NumberOf124WorldTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            <state relative-caret-position="161">
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+              <folding>
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/programmers/level2/TowerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -67,6 +72,7 @@
       <find>pekk</find>
       <find>crightSum</find>
       <find>main</find>
+      <find>int</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -78,10 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/uahan/Solution3.java" />
-        <option value="$PROJECT_DIR$/src/programmers/hash/Solution.java" />
-        <option value="$PROJECT_DIR$/src/programmers/hash/Solution2.java" />
-        <option value="$PROJECT_DIR$/src/programmers/hash/Solution3.java" />
         <option value="$PROJECT_DIR$/src/programmers/hash/Solution4.java" />
         <option value="$PROJECT_DIR$/src/programmers/hash/Solution5.java" />
         <option value="$PROJECT_DIR$/src/programmers/hash/Solution6.java" />
@@ -129,13 +131,18 @@
         <option value="$PROJECT_DIR$/src/programmers/level1/AddMatrix.java" />
         <option value="$PROJECT_DIR$/src/test/programmers/level2/SkillTreeTest.java" />
         <option value="$PROJECT_DIR$/src/programmers/level2/SkillTree.java" />
+        <option value="$PROJECT_DIR$/src/test/programmers/level2/TowerTest.java" />
+        <option value="$PROJECT_DIR$/src/programmers/level2/Tower.java" />
+        <option value="$PROJECT_DIR$/src/test/programmers/level2/NumberOf124WorldTest.java" />
+        <option value="$PROJECT_DIR$/src/programmers/level2/NumberOf124World.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="951" />
-    <option name="width" value="978" />
-    <option name="height" value="1050" />
+    <option name="x" value="2976" />
+    <option name="y" value="-16" />
+    <option name="width" value="976" />
+    <option name="height" value="871" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -145,6 +152,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,12 +172,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="uahantech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uahantech" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="level2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,10 +190,10 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560001483712" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560398698057" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="programmers.level2.SkillTree" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="programmers.level2.NumberOf124World" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../TDD" />
     <property name="project.structure.last.edited" value="Project" />
@@ -197,11 +211,11 @@
       <recent name="test.programmers" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
+      <recent name="programmers.level2.NumberOf124World" />
+      <recent name="programmers.level2.Tower" />
       <recent name="programmers.level2.SkillTree" />
       <recent name="programmers.level1.LastPhoneNumber" />
       <recent name="programmers.level1.Collatz" />
-      <recent name="programmers.level1.LCMGCD" />
-      <recent name="programmers.level1.OddEven" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\springboot\uahantech\src\uahan" />
@@ -219,7 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SkillTreeTest.testSkillTree">
+  <component name="RunManager" selected="JUnit.NumberOf124WorldTest.test">
     <configuration name="CollatzTest.testCollatz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="uahantech" />
       <extension name="coverage">
@@ -231,22 +245,6 @@
       <option name="PACKAGE_NAME" value="test.programmers.level1" />
       <option name="MAIN_CLASS_NAME" value="test.programmers.level1.CollatzTest" />
       <option name="METHOD_NAME" value="testCollatz" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LCMGCDTest.testLCMGCD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="uahantech" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.programmers.level1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.programmers.level1" />
-      <option name="MAIN_CLASS_NAME" value="test.programmers.level1.LCMGCDTest" />
-      <option name="METHOD_NAME" value="testLCMGCD" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -268,18 +266,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddEvenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumberOf124WorldTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="uahantech" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.programmers.level1.*" />
+          <option name="PATTERN" value="test.programmers.level2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.programmers.level1" />
-      <option name="MAIN_CLASS_NAME" value="test.programmers.level1.OddEvenTest" />
-      <option name="METHOD_NAME" value="testOddEven" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="test.programmers.level2" />
+      <option name="MAIN_CLASS_NAME" value="test.programmers.level2.NumberOf124WorldTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -300,13 +298,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TowerTest.sendTowerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="uahantech" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.programmers.level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.programmers.level2" />
+      <option name="MAIN_CLASS_NAME" value="test.programmers.level2.TowerTest" />
+      <option name="METHOD_NAME" value="sendTowerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NumberOf124WorldTest.test" />
+        <item itemvalue="JUnit.TowerTest.sendTowerTest" />
         <item itemvalue="JUnit.SkillTreeTest.testSkillTree" />
         <item itemvalue="JUnit.LastPhoneNumberTest.testLastPhoneNumber" />
         <item itemvalue="JUnit.CollatzTest.testCollatz" />
-        <item itemvalue="JUnit.LCMGCDTest.testLCMGCD" />
-        <item itemvalue="JUnit.OddEvenTest" />
       </list>
     </recent_temporary>
   </component>
@@ -321,38 +335,46 @@
       <option name="presentableId" value="Default" />
       <updated>1552866552063</updated>
     </task>
+    <task id="LOCAL-00001" summary="스킬트리">
+      <created>1560001652458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560001652458</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SkillTreeTest_testSkillTree - 2019.06.08 at 22h 35m 18s.xml">
-      <configuration name="SkillTreeTest.testSkillTree" configurationId="JUnit" />
+    <history-entry file="NumberOf124WorldTest_test - 2019.06.13 at 12h 33m 51s.xml">
+      <configuration name="NumberOf124WorldTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkillTreeTest_testSkillTree - 2019.06.08 at 22h 35m 22s.xml">
-      <configuration name="SkillTreeTest.testSkillTree" configurationId="JUnit" />
+    <history-entry file="NumberOf124WorldTest_test - 2019.06.13 at 12h 35m 02s.xml">
+      <configuration name="NumberOf124WorldTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkillTreeTest_testSkillTree - 2019.06.08 at 22h 35m 51s.xml">
-      <configuration name="SkillTreeTest.testSkillTree" configurationId="JUnit" />
+    <history-entry file="NumberOf124WorldTest_test - 2019.06.13 at 12h 35m 12s.xml">
+      <configuration name="NumberOf124WorldTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkillTreeTest_testSkillTree - 2019.06.08 at 22h 36m 32s.xml">
-      <configuration name="SkillTreeTest.testSkillTree" configurationId="JUnit" />
+    <history-entry file="NumberOf124WorldTest_test - 2019.06.13 at 12h 35m 22s.xml">
+      <configuration name="NumberOf124WorldTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkillTreeTest_testSkillTree - 2019.06.08 at 22h 38m 12s.xml">
-      <configuration name="SkillTreeTest.testSkillTree" configurationId="JUnit" />
+    <history-entry file="NumberOf124WorldTest_test - 2019.06.13 at 12h 35m 38s.xml">
+      <configuration name="NumberOf124WorldTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkillTreeTest_testSkillTree - 2019.06.08 at 22h 38m 30s.xml">
-      <configuration name="SkillTreeTest.testSkillTree" configurationId="JUnit" />
+    <history-entry file="NumberOf124WorldTest_test - 2019.06.13 at 12h 37m 14s.xml">
+      <configuration name="NumberOf124WorldTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkillTreeTest_testSkillTree - 2019.06.08 at 22h 38m 43s.xml">
-      <configuration name="SkillTreeTest.testSkillTree" configurationId="JUnit" />
+    <history-entry file="NumberOf124WorldTest_test - 2019.06.13 at 12h 37m 27s.xml">
+      <configuration name="NumberOf124WorldTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkillTreeTest_testSkillTree - 2019.06.08 at 22h 40m 10s.xml">
-      <configuration name="SkillTreeTest.testSkillTree" configurationId="JUnit" />
+    <history-entry file="NumberOf124WorldTest_test - 2019.06.13 at 12h 37m 47s.xml">
+      <configuration name="NumberOf124WorldTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkillTreeTest_testSkillTree - 2019.06.08 at 22h 43m 04s.xml">
-      <configuration name="SkillTreeTest.testSkillTree" configurationId="JUnit" />
+    <history-entry file="NumberOf124WorldTest_test - 2019.06.13 at 12h 38m 13s.xml">
+      <configuration name="NumberOf124WorldTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkillTreeTest_testSkillTree - 2019.06.08 at 22h 43m 07s.xml">
-      <configuration name="SkillTreeTest.testSkillTree" configurationId="JUnit" />
+    <history-entry file="NumberOf124WorldTest_test - 2019.06.13 at 12h 42m 45s.xml">
+      <configuration name="NumberOf124WorldTest.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -365,10 +387,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49676025" visible="true" weight="0.17181209" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49676025" visible="true" weight="0.14179105" />
       <window_info id="Structure" order="1" sideWeight="0.50323975" side_tool="true" weight="0.20134228" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -378,16 +400,16 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3280116" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24818578" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39477503" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24724062" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39403972" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3280116" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3280116" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32946298" />
       <window_info anchor="bottom" id="DB Execution Console" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32656023" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32560706" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -397,6 +419,10 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="스킬트리" />
+    <option name="LAST_COMMIT_MESSAGE" value="스킬트리" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -480,10 +506,10 @@
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/programmers/level2/SkillTree.java</url>
-          <line>25</line>
+          <url>file://$PROJECT_DIR$/src/programmers/level2/NumberOf124World.java</url>
+          <line>22</line>
           <properties />
-          <option name="timeStamp" value="54" />
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -552,40 +578,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/programmers/level1/Solution4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/level1/Solution5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/level1/Solution6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="22" column="8" selection-start-line="22" selection-end-line="22" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/level1/Solution7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/programmers/level1/Solution8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -895,8 +887,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/programmers/level2/SkillTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
+        <state relative-caret-position="258">
           <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/level2/Tower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/programmers/level2/TowerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/programmers/level2/NumberOf124WorldTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/level2/NumberOf124World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
         </state>
       </provider>
     </entry>
